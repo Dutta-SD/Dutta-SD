@@ -1,4 +1,4 @@
-![Sandip Dutta Developer](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/Sandip_Dutta_Banner.png)
+## Hi, I am Sandip Dutta
 
 ![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=tokyonight)
 
