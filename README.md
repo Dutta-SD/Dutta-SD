@@ -1,7 +1,7 @@
 ![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/SD_Banner.png)
 
-`Programming = ❤;`
------
+## `Programming = ❤;`
+
 * Student of Jadavpur University, Electronics and Telecommunication Engineering (2019-2023)
 * 👨🏽‍💻
 
