@@ -1,6 +1,9 @@
-## Hi, I am Sandip Dutta
+![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/SD_Banner.png)
+
+`Programming = ❤;`
+-----
 * Student of Jadavpur University, Electronics and Telecommunication Engineering (2019-2023)
-* Loves Programming
+* 👨🏽‍💻
 
 ## Skills
 |<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />|<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>|<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />|<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />|<img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />|
@@ -20,4 +23,5 @@
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'>                                              
 </a><!--LinkedIn Button-->
 
+--------
 ![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=tokyonight)
