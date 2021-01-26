@@ -1,9 +1,15 @@
 ![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/SD_Banner.png)
+## Connect with Me!
+* **LinkedIn** - https://www.linkedin.com/in/sandip-dutta-111100/
+* **Email** - [duttasandip11100@gmail.com](mailto:duttasandip11100@gmail.com)
 
 ## `Programming = ❤;`
 
-* Student of Jadavpur University, Electronics and Telecommunication Engineering (2019-2023)
 * 👨🏽‍💻
+* Currently a UG Student :book:
+* Learning more about Web Technologies
+* Interested in Machine Learning, AI
+
 
 ## Machine Learning Skills
 |<img src='https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white'>  <!--Python Badge-->|<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /><!--Pytorch-->|<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/><!--Keras-->|
@@ -20,10 +26,6 @@
 |<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <!-- git--> | <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <!--github-->|
 |----|----|
 
-## Contact Details
-<a href = 'https://www.linkedin.com/in/sandip-dutta-111100/'>
-    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'>                                           
-</a><!--LinkedIn Button-->
 
---------
 ![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
