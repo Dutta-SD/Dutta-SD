@@ -1,4 +1,4 @@
-![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/SD_Banner.png)
+![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/Skills-2.png)
 ## Connect with Me!
 * **LinkedIn** - https://www.linkedin.com/in/sandip-dutta-111100/
 * **Email** - [duttasandip11100@gmail.com](mailto:duttasandip11100@gmail.com)
