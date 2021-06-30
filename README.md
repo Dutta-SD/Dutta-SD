@@ -1,6 +1,6 @@
 ![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/Skills-2.png)
 ## Connect with Me!
-* **LinkedIn** - https://www.linkedin.com/in/sandip-dutta-111100/
+* [**LinkedIn**](https://www.linkedin.com/in/sandip-dutta-111100/)
 
 ## `Programming = ❤;`
 
