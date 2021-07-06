@@ -1,13 +1,20 @@
-![Welcome to Sandip Dutta Github Profile](https://raw.githubusercontent.com/Dutta-SD/Dutta-SD/main/Skills-2.png)
+<!-- Heading Banner -->
+![Welcome to Sandip Dutta Github Profile](imgs/banner/Sandip_Dutta_Banner.png)
+
+<!-- Social Media Connect -->
 ## Connect with Me!
-* [**LinkedIn**](https://www.linkedin.com/in/sandip-dutta-111100/)
+
+<!-- Linked In --> 
+[![Linked In Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-dutta-111100/)<!-- Facebook -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100039020774484)<!--Hackerrank-->
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sandip11100) <!--Kaggle-->
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/duttasd28) 
 
 ## `Programming = ❤;`
 
-* 👨🏽‍💻
-* Currently a UG Student :book:
-* Learning more about Web Technologies
-* Interested in Machine Learning, AI
+* Currently a UG Student @ Jadavpur University 👨🏽‍💻📚
+* Learning more about Django Web Technologies 🌐
+* Interested in Machine Learning, AI 🤖
 
 
 ## Machine Learning Skills
