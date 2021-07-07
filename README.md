@@ -36,18 +36,26 @@ Template for Image
 |:---:|:---:|:---:|:---:|
 |![tensorflow][tensorflow-logo] | ![keras][keras-logo] | ![pytorch][pytorch-logo] | ![p-lightning][pl-logo]|
 
-## Languages
-|||
+## Python Frameworks
+|![flask][flask-logo]|![django][django-logo]|
+|:---:|:---:|
+
+## Other Programming Languages
+|![c][c-logo]|![cpp][cpp-logo]|![r][r-logo]|
 |:----:|:----:|:----:|
-|||
+|![java][java-logo]|![mkdown][markdown-logo]|![shell][shell-logo]|
 ## Version Control
 
-|||
+|![git][git-logo]|![github][github-logo]|
 |----|----|
 
+## Databases
+|![mysql][mysql-logo]|
+|:---:|
 
-![Sandip's github stats][]
-![Top Langs][]
+
+![Sandip's github stats][github-stats]
+![Top Langs][top-lang-stats]
 
 
 <!-- All references -->
@@ -102,5 +110,5 @@ Template for Image
 [postgre-logo]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
 <!-- Github Stats -->
-[github-stats]:https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=tokyonight
-[top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&layout=compact&theme=tokyonight&hide=jupyter%20notebook
+[github-stats]:https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=highcontrast
+[top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&layout=compact&theme=highcontrast&hide=jupyter%20notebook
