@@ -16,9 +16,15 @@ Template for Image
 
 ![Welcome to Sandip Dutta Github Profile][main-banner-path]
 
+![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
+
 <!-- Social Media Connect -->
 <!-- ## Connect with Me! -->
-
+## Connect with Me
 [![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
 [![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
 [![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
@@ -28,7 +34,7 @@ Template for Image
 
 * I am currently a `UG Student @ Jadavpur University, ETCE` 👨🏽‍💻📚
 * Tremendously Interested in Machine Learning and AI 🤖
-* Currently, learning more about `Django` and Web Technologies 🌐
+* Currently, learning more about `Java` and Web Technologies 🌐
 * I have coded primarily in `Python` and `C`
 
 ## Machine Learning Stack
