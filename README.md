@@ -56,8 +56,8 @@ Template for Image
 |----|----|
 
 ## Databases
-|![mysql][mysql-logo]|
-|:---:|
+|![mysql][mysql-logo]|![psql][postgre-logo]|
+|:---:|:---:|
 
 
 ![Sandip's github stats][github-stats]
@@ -117,4 +117,4 @@ Template for Image
 
 <!-- Github Stats -->
 [github-stats]:https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=highcontrast
-[top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&layout=compact&theme=highcontrast&hide=jupyter%20notebook
+[top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=highcontrast&hide=jupyter%20notebook&count_private=true
