@@ -33,6 +33,7 @@ Template for Image
 ## About Me
 
 * I am currently a `UG Student @ Jadavpur University, ETCE` 👨🏽‍💻📚
+* Former Intern at `Amazon India`
 * Tremendously Interested in Machine Learning and AI 🤖
 * Currently, learning more about `Java` and Web Technologies 🌐
 * I have coded primarily in `Python` and `C`
