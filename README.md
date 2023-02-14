@@ -14,17 +14,11 @@ Template for Image
 
 <!-- Heading Banner -->
 
-![Welcome to Sandip Dutta Github Profile][main-banner-path]
-
-![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
+<!-- ![Welcome to Sandip Dutta Github Profile][main-banner-path] -->
+# Hi! Sandip here! Welcome to my profile
 
 <!-- Social Media Connect -->
 <!-- ## Connect with Me! -->
-## Connect with Me
 [![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
 [![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
 [![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
@@ -64,8 +58,8 @@ Template for Image
 |----|----|
 
 ## Databases
-|![mysql][mysql-logo]|![psql][postgre-logo]|
-|:---:|:---:|
+|![mysql][mysql-logo]|![psql][postgre-logo]|![ddb][dynamodb-logo]|
+|:---:|:---:|:---:|
 
 
 ![Sandip's github stats][github-stats]
@@ -123,7 +117,16 @@ Template for Image
 <!-- Databases -->
 [mysql-logo]:https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [postgre-logo]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[dynamodb-logo]:https://img.shields.io/badge/DynamoDB-2B6CAF?style=for-the-badge&logo=postgresql&logoColor=white
 
 <!-- Github Stats -->
 [github-stats]:https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=highcontrast
 [top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=highcontrast&hide=jupyter%20notebook&count_private=true
+
+----
+
+![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
