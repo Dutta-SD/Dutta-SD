@@ -52,15 +52,15 @@ Template for Image
 |![c][c-logo]|![cpp][cpp-logo]|![r][r-logo]|
 |:----:|:----:|:----:|
 |![java][java-logo]|![mkdown][markdown-logo]|![shell][shell-logo]|
-## Version Control
-
-|![git][git-logo]|![github][github-logo]|
-|----|----|
 
 ## Databases
-|![mysql][mysql-logo]|![psql][postgre-logo]|![ddb][dynamodb-logo]|
-|:---:|:---:|:---:|
+|![mysql][mysql-logo]|![psql][postgre-logo]|![ddb][dynamodb-logo]|![mongodb][mongodb-logo]|
+|:---:|:---:|:---:|:---:|
 
+## Other Technologies
+
+|![git][git-logo]|![github][github-logo]|![aws][aws-logo]|![linux-ubuntu][linux-logo]|
+|----|----|----|----|
 
 ![Sandip's github stats][github-stats]
 ![Top Langs][top-lang-stats]
@@ -117,8 +117,12 @@ Template for Image
 <!-- Databases -->
 [mysql-logo]:https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [postgre-logo]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-[dynamodb-logo]:https://img.shields.io/badge/DynamoDB-2B6CAF?style=for-the-badge&logo=postgresql&logoColor=white
+[dynamodb-logo]:https://img.shields.io/badge/DynamoDB-2B6CAF?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white
+[mongodb-logo]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 
+<!--  CLOUD -->
+[aws-logo]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[linux-logo]:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 <!-- Github Stats -->
 [github-stats]:https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=highcontrast
 [top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=highcontrast&hide=jupyter%20notebook&count_private=true
