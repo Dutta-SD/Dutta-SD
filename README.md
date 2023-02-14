@@ -11,10 +11,6 @@ Template for Image
 ![][]
 
 -->
-
-<!-- Heading Banner -->
-
-<!-- ![Welcome to Sandip Dutta Github Profile][main-banner-path] -->
 # Hi! Sandip here! Welcome to my profile
 
 <!-- Social Media Connect -->
@@ -39,37 +35,27 @@ Template for Image
 - 💡 In the past, I have completed an internship at Amazon India, where I gained experience in software development.
 - 🤖 I am particularly interested in the field of Machine Learning and Artificial Intelligence, and I am eager to continue developing my skills in this area.
 
-## Machine Learning Stack
-|![python][python-logo] | ![np][np-logo] | ![pandas][pandas-logo] | ![sklearn][sklearn-logo]|
-|:---:|:---:|:---:|:---:|
-|![tensorflow][tensorflow-logo] | ![keras][keras-logo] | ![pytorch][pytorch-logo] | ![p-lightning][pl-logo]|
+## Technologies
+![python][python-logo] ![np][np-logo] ![pandas][pandas-logo] ![sklearn][sklearn-logo] ![tensorflow][tensorflow-logo] ![keras][keras-logo] ![pytorch][pytorch-logo] ![p-lightning][pl-logo]
+![flask][flask-logo] ![django][django-logo] ![spring-boot][spring-boot-logo] ![c][c-logo] ![cpp][cpp-logo] ![r][r-logo] ![java][java-logo]
+![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
+![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo]
 
-## Frameworks
-|![flask][flask-logo]|![django][django-logo]|![spring-boot][spring-boot-logo]|
-|:---:|:---:|:---:|
+<img align="left" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=transparent&hide=jupyter%20notebook&count_private=true&layout=compact" />
+     
+<img align="right" 
+     src="https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=transparent" />
 
-## Other Programming Languages
-|![c][c-logo]|![cpp][cpp-logo]|![r][r-logo]|
-|:----:|:----:|:----:|
-|![java][java-logo]|![mkdown][markdown-logo]|![shell][shell-logo]|
+<br/>
 
-## Databases
-|![mysql][mysql-logo]|![psql][postgre-logo]|![ddb][dynamodb-logo]|![mongodb][mongodb-logo]|
-|:---:|:---:|:---:|:---:|
+![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
 
-## Other Technologies
-
-|![git][git-logo]|![github][github-logo]|![aws][aws-logo]|![linux-ubuntu][linux-logo]|
-|----|----|----|----|
-
-![Sandip's github stats][github-stats]
-![Top Langs][top-lang-stats]
-
-
-<!-- All references -->
-
-<!-- Main Banner -->
-[main-banner-path]:./imgs/banner/Sandip_Dutta_Banner.png
+<!-- REFERENCES -->
 
 <!-- Social Icons -->
 [linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -123,14 +109,3 @@ Template for Image
 <!--  CLOUD -->
 [aws-logo]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [linux-logo]:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-<!-- Github Stats -->
-[github-stats]:https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=highcontrast
-[top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=highcontrast&hide=jupyter%20notebook&count_private=true
-
-----
-
-![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
