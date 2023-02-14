@@ -32,20 +32,27 @@ Template for Image
 
 ## About Me
 
-* I am currently a `UG Student @ Jadavpur University, ETCE` 👨🏽‍💻📚
-* Former Intern at `Amazon India`
-* Tremendously Interested in Machine Learning and AI 🤖
-* Currently, learning more about `Java` and Web Technologies 🌐
-* I have coded primarily in `Python` and `C`
+- 👨🏽‍💻 I am a final year undergraduate student at Jadavpur University, majoring in Electronics and Telecommunication Engineering (ETCE).
+- 💻 My technical skills include a strong background in the following programming languages:
+  - Java
+  - Python
+  - C and C++
+- 🚀 I have experience working with various frameworks, including:
+  - Spring Boot
+  - FastAPI
+- 📚 I have a passion for learning, and I love to read books, particularly in the areas of technology and science fiction.
+- 🔍 I am currently exploring new technologies and have recently been learning Golang and web development.
+- 💡 In the past, I have completed an internship at Amazon India, where I gained experience in software development.
+- 🤖 I am particularly interested in the field of Machine Learning and Artificial Intelligence, and I am eager to continue developing my skills in this area.
 
 ## Machine Learning Stack
 |![python][python-logo] | ![np][np-logo] | ![pandas][pandas-logo] | ![sklearn][sklearn-logo]|
 |:---:|:---:|:---:|:---:|
 |![tensorflow][tensorflow-logo] | ![keras][keras-logo] | ![pytorch][pytorch-logo] | ![p-lightning][pl-logo]|
 
-## Python Frameworks
-|![flask][flask-logo]|![django][django-logo]|
-|:---:|:---:|
+## Frameworks
+|![flask][flask-logo]|![django][django-logo]|![spring-boot][spring-boot-logo]|
+|:---:|:---:|:---:|
 
 ## Other Programming Languages
 |![c][c-logo]|![cpp][cpp-logo]|![r][r-logo]|
@@ -89,6 +96,7 @@ Template for Image
 <!-- Python and Machine Learning Stack -->
 [python-logo]:https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
 [flask-logo]:https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[spring-boot-logo]:https://img.shields.io/badge/Spring-11A821?style=for-the-badge&logo=spring&logoColor=white
 [np-logo]:https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
 [pandas-logo]:https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white
 [keras-logo]:https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white
