@@ -39,6 +39,7 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Doglapan: The Hard Truth about Life and Start-Ups](https://www.goodreads.com/review/show/5401003216?utm_medium=api&utm_source=rss) by Ashneer Grover (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
 
 ![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
