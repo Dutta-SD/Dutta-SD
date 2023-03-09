@@ -1,20 +1,12 @@
-<!--
-
-Sandip Dutta Profile README.md
-
-Feel free to fork and edit
-
-Template for Image with URL
-[![][]][]
-
-Template for Image 
-![][]
-
--->
 # Hi! Sandip here! Welcome to my profile
+![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
 
 <!-- Social Media Connect -->
-<!-- ## Connect with Me! -->
+## Connect with Me
 [![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
 [![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
 [![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
@@ -41,25 +33,26 @@ Template for Image
 ![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
 ![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo]
 
-<img align="left" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=transparent&hide=jupyter%20notebook&count_private=true&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=transparent&hide=jupyter%20notebook&count_private=true&layout=compact" />
      
-<img align="right" 
-     src="https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=transparent" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=transparent" />
 
-<br/>
 
-![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
+---
 
-<!-- REFERENCES -->
+
+
+## Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+
+
+<!-- ### END OF CONTENT ### -->
 
 <!-- Social Icons -->
 [linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]:https://www.linkedin.com/in/sandip-dutta-111100/
+[linkedin-url]:https://www.linkedin.com/in/dutta-sd/
 
 [facebook-logo]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]:https://www.facebook.com/profile.php?id=100039020774484
@@ -69,9 +62,6 @@ Template for Image
 
 [kaggle-logo]:https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 [kaggle-url]:https://www.kaggle.com/duttasd28
-
-<!-- Skill Badges-->
-
 
 <!-- Python and Machine Learning Stack -->
 [python-logo]:https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
@@ -94,7 +84,6 @@ Template for Image
 [markdown-logo]:https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white
 [shell-logo]:https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white
 [java-logo]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-
 
 <!-- Version Control -->
 [git-logo]:https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
