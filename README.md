@@ -1,12 +1,5 @@
-# Hi! Sandip here! Welcome to my profile
-![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
-
-<!-- Social Media Connect -->
-## Connect with Me
+# Sandip Dutta
+<!-- SOCIAL -->
 [![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
 [![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
 [![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
@@ -23,30 +16,36 @@
   - Spring Boot
   - FastAPI
 - 📚 I have a passion for learning, and I love to read books, particularly in the areas of technology and science fiction.
-- 🔍 I am currently exploring new technologies and have recently been learning Golang and web development.
-- 💡 In the past, I have completed an internship at Amazon India, where I gained experience in software development.
-- 🤖 I am particularly interested in the field of Machine Learning and Artificial Intelligence, and I am eager to continue developing my skills in this area.
+- 🔍 I am currently exploring new technologies and have recently been learning **Golang** and web development.
+- 💡 In the past, I have completed an internship at **Amazon India**, where I gained experience in software development.
+- 🤖 I am particularly interested in the field of **Machine Learning** and **Artificial Intelligence**, and I am eager to continue developing my skills in this area.
 
 ## Technologies
+
 ![python][python-logo] ![np][np-logo] ![pandas][pandas-logo] ![sklearn][sklearn-logo] ![tensorflow][tensorflow-logo] ![keras][keras-logo] ![pytorch][pytorch-logo] ![p-lightning][pl-logo]
 ![flask][flask-logo] ![django][django-logo] ![spring-boot][spring-boot-logo] ![c][c-logo] ![cpp][cpp-logo] ![r][r-logo] ![java][java-logo]
 ![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
 ![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo]
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=transparent&hide=jupyter%20notebook&count_private=true&layout=compact" />
-     
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=transparent" />
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=transparent&hide=jupyter%20notebook&count_private=true&layout=compact"
+ />
 
-
----
-
-
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=transparent"
+/>
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
-
+![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
 
 <!-- ### END OF CONTENT ### -->
 
@@ -74,7 +73,6 @@
 [pytorch-logo]:https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white
 [pl-logo]:https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=PyTorch%20Lightning&ogoColor=white
 [django-logo]:https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-[jupyter-logo]:https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 [sklearn-logo]:https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 
 <!--Other Programming Languages-->
