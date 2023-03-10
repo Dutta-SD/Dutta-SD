@@ -39,6 +39,7 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Passionate Programmer](https://www.goodreads.com/review/show/5403414778?utm_medium=api&utm_source=rss) by Chad Fowler (⭐️3.93)
 - [1984](https://www.goodreads.com/review/show/5387098163?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
