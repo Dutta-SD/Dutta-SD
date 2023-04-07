@@ -40,7 +40,7 @@
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/5387089746?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.37)
-- [The Passionate Programmer](https://www.goodreads.com/review/show/5403414778?utm_medium=api&utm_source=rss) by Chad Fowler (⭐️3.93)
+- [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](https://www.goodreads.com/review/show/5403414778?utm_medium=api&utm_source=rss) by Chad Fowler (⭐️3.93)
 - [1984](https://www.goodreads.com/review/show/5387098163?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
