@@ -39,6 +39,7 @@
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Flanders Panel](https://www.goodreads.com/review/show/5481217895?utm_medium=api&utm_source=rss) by Arturo Pérez-Reverte (⭐️3.82)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/5387089746?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.37)
 - [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](https://www.goodreads.com/review/show/5403414778?utm_medium=api&utm_source=rss) by Chad Fowler (⭐️3.93)
 - [1984](https://www.goodreads.com/review/show/5387098163?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
