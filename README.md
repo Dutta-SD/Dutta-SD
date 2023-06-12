@@ -27,16 +27,6 @@
 ![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
 ![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo]
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta-SD&theme=transparent&hide=jupyter%20notebook&count_private=true&layout=compact"
- />
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=Dutta-SD&show_icons=true&theme=transparent"
-/>
-
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Dark Matter](https://www.goodreads.com/review/show/5601948366?utm_medium=api&utm_source=rss) by Blake Crouch (⭐️4.12)
@@ -45,6 +35,8 @@
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/5387089746?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.37)
 - [1984](https://www.goodreads.com/review/show/5387098163?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
+
+---
 
 ![Profile views](https://gpvc.arturio.dev/Dutta-SD) <!--  Profile Hits-->
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
