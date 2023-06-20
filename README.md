@@ -23,9 +23,9 @@
 ## Technologies
 
 ![python][python-logo] ![np][np-logo] ![pandas][pandas-logo] ![sklearn][sklearn-logo] ![tensorflow][tensorflow-logo] ![keras][keras-logo] ![pytorch][pytorch-logo] ![p-lightning][pl-logo]
-![flask][flask-logo] ![django][django-logo] ![spring-boot][spring-boot-logo] ![c][c-logo] ![cpp][cpp-logo] ![r][r-logo] ![java][java-logo]
+![flask][flask-logo] ![fastapi][fastapi-logo] ![spring-boot][spring-boot-logo] ![c][c-logo] ![cpp][cpp-logo] ![r][r-logo] ![java][java-logo]
 ![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
-![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo]
+![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo] ![docker][docker-logo]
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
@@ -69,6 +69,7 @@
 [pl-logo]:https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=PyTorch%20Lightning&ogoColor=white
 [django-logo]:https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 [sklearn-logo]:https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[fastapi-logo]:https://img.shields.io/badge/Fastapi-0FD4C4?style=for-the-badge&logo=fastapi&logoColor=white
 
 <!--Other Programming Languages-->
 [c-logo]:https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white
@@ -91,3 +92,4 @@
 <!--  CLOUD -->
 [aws-logo]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [linux-logo]:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[docker-logo]:https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white
