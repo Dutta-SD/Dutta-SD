@@ -1,24 +1,19 @@
 # Sandip Dutta
-<!-- SOCIAL -->
-[![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
-[![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
-[![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
-[![Kaggle][kaggle-logo]][kaggle-url] <!--Kaggle-->
+_Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## About Me
 
-- 👨🏽‍💻 I am a final year undergraduate student at Jadavpur University, majoring in Electronics and Telecommunication Engineering (ETCE).
-- 💻 My technical skills include a strong background in the following programming languages:
-  - Java
-  - Python
-  - C and C++
-- 🚀 I have experience working with various frameworks, including:
-  - Spring Boot
-  - FastAPI
-- 📚 I have a passion for learning, and I love to read books, particularly in the areas of technology and science fiction.
-- 🔍 I am currently exploring new technologies and have recently been learning **Golang** and web development.
-- 💡 In the past, I have completed an internship at **Amazon India**, where I gained experience in software development.
-- 🤖 I am particularly interested in the field of **Machine Learning** and **Artificial Intelligence**, and I am eager to continue developing my skills in this area.
+- **Current Position**: Currently interning at IIT Kharagpur on Computer Vision and Machine Learning 👨🏽‍💻
+- **Previous Experience**:
+  - Completed a software development internship at Amazon India. 🚀
+  - Interned at NLP Lab, Jadavpur University, working on Sentiment Analysis. 💬
+  - Interned at AI Lab, Jadavpur University, focusing on Machine Learning. 🤖
+  - Interned at CVPRU, ISI Kolkata, specializing in Biomedical Image Processing. 🏥 🖥️
+- **Education**: Recent Electronics graduate from Jadavpur University (B.E. 2019-2023) 🎓
+- **Programming Languages**: Proficient in Java, Python, C++. Started learning GoLang.
+- **Frameworks**: Experienced in developing applications using Spring Boot 🌼 and other Spring environment frameworks. 🌸
+- **Interests**: Enthusiastic about Machine Learning 🤖 and Artificial Intelligence 🧠.
+- **Hobbies**: Enjoys reading books, particularly in the genres of technology 📚, science fiction 🚀, and horror 👻.
 
 ## Technologies
 
@@ -36,7 +31,15 @@
 - [1984](https://www.goodreads.com/review/show/5387098163?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
+## Contact Me
+<!-- SOCIAL -->
+[![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
+[![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
+[![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
+[![Kaggle][kaggle-logo]][kaggle-url] <!--Kaggle-->
+
 ---
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
@@ -44,7 +47,8 @@
 
 <!-- ### END OF CONTENT ### -->
 
-<!-- Social Icons -->
+
+
 [linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/dutta-sd/
 
