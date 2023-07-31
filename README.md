@@ -25,10 +25,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Dark Matter](https://www.goodreads.com/review/show/5601948366?utm_medium=api&utm_source=rss) by Blake Crouch (⭐️4.12)
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/5580874736?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.31)
-- [The Flanders Panel](https://www.goodreads.com/review/show/5481217895?utm_medium=api&utm_source=rss) by Arturo Pérez-Reverte (⭐️3.82)
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/5387089746?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.36)
-- [1984](https://www.goodreads.com/review/show/5387098163?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
