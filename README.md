@@ -33,14 +33,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 [![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
 [![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
 [![Kaggle][kaggle-logo]][kaggle-url] <!--Kaggle-->
-
----
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dutta-SD/Dutta-SD/graphs/code-frequency)<!--  Maintained-->
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) <!-- Made with markdown -->
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Dutta-SD) <!-- MIT -->
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!-- Open Source -->
-
 <!-- ### END OF CONTENT ### -->
 
 
