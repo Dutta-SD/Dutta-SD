@@ -24,7 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Dark Matter](https://www.goodreads.com/review/show/5601948366?utm_medium=api&utm_source=rss) by Blake Crouch (⭐️4.12)
+- [The Last Thing He Told Me](https://www.goodreads.com/review/show/5751958674?utm_medium=api&utm_source=rss) by Laura Dave (⭐️3.8)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
