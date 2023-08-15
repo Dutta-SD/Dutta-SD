@@ -24,7 +24,8 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Last Thing He Told Me](https://www.goodreads.com/review/show/5751958674?utm_medium=api&utm_source=rss) by Laura Dave (⭐️3.8)
+- [The Silent Patient](https://www.goodreads.com/review/show/5404127735?utm_medium=api&utm_source=rss) by Alex Michaelides (⭐️4.18)
+- [And the Mountains Echoed](https://www.goodreads.com/review/show/5769157223?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
