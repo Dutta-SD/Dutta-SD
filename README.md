@@ -24,7 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [And the Mountains Echoed](https://www.goodreads.com/review/show/5769157223?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.06)
+- [Project Hail Mary](https://www.goodreads.com/review/show/5769970517?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.5)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
