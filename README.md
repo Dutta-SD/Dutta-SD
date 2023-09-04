@@ -24,7 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Project Hail Mary](https://www.goodreads.com/review/show/5769970517?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.5)
+- [The Monk](https://www.goodreads.com/review/show/5401005972?utm_medium=api&utm_source=rss) by Matthew Gregory Lewis (⭐️3.82)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
