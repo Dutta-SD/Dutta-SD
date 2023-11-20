@@ -24,6 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [A Thousand Splendid Suns](https://www.goodreads.com/review/show/5987860440?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.42)
 - [Crime and Punishment](https://www.goodreads.com/review/show/5843312186?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.24)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
