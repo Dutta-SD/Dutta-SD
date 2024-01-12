@@ -25,7 +25,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [The Call of Cthulhu](https://www.goodreads.com/review/show/6096443728?utm_medium=api&utm_source=rss) by H.P. Lovecraft (⭐️4)
-- [Sea of Tranquility](https://www.goodreads.com/review/show/5834425732?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️4.07)
 - [Crime and Punishment](https://www.goodreads.com/review/show/5843312186?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.24)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
