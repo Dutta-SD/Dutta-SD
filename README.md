@@ -24,8 +24,9 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Reformatory](https://www.goodreads.com/review/show/6162563367?utm_medium=api&utm_source=rss) by Tananarive Due (⭐️4.52)
 - [My Name Is Red](https://www.goodreads.com/review/show/5472695235?utm_medium=api&utm_source=rss) by Orhan Pamuk (⭐️3.87)
-- [The September House](https://www.goodreads.com/review/show/6089814653?utm_medium=api&utm_source=rss) by Carissa Orlando (⭐️3.94)
+- [The September House](https://www.goodreads.com/review/show/6089814653?utm_medium=api&utm_source=rss) by Carissa Orlando (⭐️3.93)
 - [Crime and Punishment](https://www.goodreads.com/review/show/5843312186?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.24)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
