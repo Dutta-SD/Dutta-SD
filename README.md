@@ -24,6 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Tattooist of Auschwitz (The Tattooist of Auschwitz, #1)](https://www.goodreads.com/review/show/6287422244?utm_medium=api&utm_source=rss) by Heather   Morris (⭐️4.3)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
