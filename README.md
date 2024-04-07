@@ -24,8 +24,8 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Book Thief](https://www.goodreads.com/review/show/6370125926?utm_medium=api&utm_source=rss) by Markus Zusak (⭐️4.4)
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.17)
+- [The Book Thief](https://www.goodreads.com/review/show/6370125926?utm_medium=api&utm_source=rss) by Markus Zusak (⭐️4.39)
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
