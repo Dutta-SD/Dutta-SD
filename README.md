@@ -24,7 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Book Thief](https://www.goodreads.com/review/show/6370125926?utm_medium=api&utm_source=rss) by Markus Zusak (⭐️4.39)
+- [Mossad: The Greatest Missions of the Israeli Secret Service](https://www.goodreads.com/review/show/6420665753?utm_medium=api&utm_source=rss) by Michael Bar-Zohar (⭐️4.15)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
