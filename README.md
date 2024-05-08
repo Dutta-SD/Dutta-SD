@@ -24,7 +24,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Recursion](https://www.goodreads.com/review/show/5797706771?utm_medium=api&utm_source=rss) by Blake Crouch (⭐️4.15)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
