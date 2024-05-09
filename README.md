@@ -24,6 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Killers of the Flower Moon: Oil, Money, Murder and the Birth of the FBI [Paperback] [Apr 20, 2017] David Grann](https://www.goodreads.com/review/show/6490445614?utm_medium=api&utm_source=rss) by David Grann (⭐️4.14)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5740464515?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
