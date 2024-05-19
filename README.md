@@ -24,7 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Upgrade](https://www.goodreads.com/review/show/6487494852?utm_medium=api&utm_source=rss) by Blake Crouch (⭐️3.77)
+- [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/6495200055?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.03)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
