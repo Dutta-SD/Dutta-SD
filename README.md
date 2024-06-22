@@ -24,7 +24,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [11.22.63](https://www.goodreads.com/review/show/6550467108?utm_medium=api&utm_source=rss) by Stephen King (⭐️4.37)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/6495200055?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.03)
 - [The Republic of Pirates: Being the True and Surprising Story of the Caribbean Pirates and the Man Who Brought Them Down](https://www.goodreads.com/review/show/6517020148?utm_medium=api&utm_source=rss) by Colin Woodard (⭐️3.84)
 <!-- GOODREADS-LIST:END -->
