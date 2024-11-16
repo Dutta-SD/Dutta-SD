@@ -24,7 +24,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Shortest History of Japan: From Mythical Origins to Pop Culture Powerhouse―The Global Drama of an Ancient Island Nation (The Shortest History Series)](https://www.goodreads.com/review/show/6768560276?utm_medium=api&utm_source=rss) by Lesley Downer (⭐️3.89)
+- [The Shortest History of Japan: From Mythical Origins to Pop Culture Powerhouse―The Global Drama of an Ancient Island Nation (The Shortest History Series)](https://www.goodreads.com/review/show/6768560276?utm_medium=api&utm_source=rss) by Lesley Downer (⭐️3.87)
 - [Children of Time (Children of Time, #1)](https://www.goodreads.com/review/show/6708099525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.28)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/6495200055?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.04)
 - [The Republic of Pirates: Being the True and Surprising Story of the Caribbean Pirates and the Man Who Brought Them Down](https://www.goodreads.com/review/show/6517020148?utm_medium=api&utm_source=rss) by Colin Woodard (⭐️3.85)
