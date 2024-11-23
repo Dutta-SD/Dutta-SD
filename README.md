@@ -24,7 +24,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Meditations](https://www.goodreads.com/review/show/7020691437?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.42)
 - [Children of Time (Children of Time, #1)](https://www.goodreads.com/review/show/6708099525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
