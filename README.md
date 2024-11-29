@@ -1,5 +1,5 @@
 # Sandip Dutta
-I like tech, AI books.
+I like tech, AI & books.
 
 ## About Me
 
