@@ -1,16 +1,18 @@
 # Sandip Dutta
-_Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
+I like tech, AI books.
 
 ## About Me
 
-- **Current Position**: Currently interning at IIT Kharagpur on Computer Vision and Machine Learning 👨🏽‍💻
+- **Current Position**: SDE 1 at Amazon 👨🏽‍💻
 - **Previous Experience**:
+  - Joined Amazon India as a Software Developer
+  - Completed IIT Kharagpur Research Project on Computer Vision and Medical Image Processing
   - Completed a software development internship at Amazon India. 🚀
   - Interned at NLP Lab, Jadavpur University, working on Sentiment Analysis. 💬
   - Interned at AI Lab, Jadavpur University, focusing on Machine Learning. 🤖
-  - Interned at CVPRU, ISI Kolkata, specializing in Biomedical Image Processing. 🏥 🖥️
+  - Interned at CVPRU, ISI Kolkata, specializing in Medical Image Processing. 🏥 🖥️
 - **Education**: Recent Electronics graduate from Jadavpur University (B.E. 2019-2023) 🎓
-- **Programming Languages**: Proficient in Java, Python, C++. Started learning GoLang.
+- **Programming Languages**: Proficient in Java and Python. Learning more about JavaScript.
 - **Frameworks**: Experienced in developing applications using Spring Boot 🌼 and other Spring environment frameworks. 🌸
 - **Interests**: Enthusiastic about Machine Learning 🤖 and Artificial Intelligence 🧠.
 - **Hobbies**: Enjoys reading books, particularly in the genres of technology 📚, science fiction 🚀, and horror 👻.
@@ -20,7 +22,7 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 ![python][python-logo] ![np][np-logo] ![pandas][pandas-logo] ![sklearn][sklearn-logo] ![tensorflow][tensorflow-logo] ![keras][keras-logo] ![pytorch][pytorch-logo] ![p-lightning][pl-logo]
 ![flask][flask-logo] ![fastapi][fastapi-logo] ![spring-boot][spring-boot-logo] ![c][c-logo] ![cpp][cpp-logo] ![r][r-logo] ![java][java-logo]
 ![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
-![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo] ![docker][docker-logo]
+![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo] ![docker][docker-logo] ![ts][ts-logo]
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
@@ -30,9 +32,6 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 ## Contact Me
 <!-- SOCIAL -->
 [![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
-[![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
-[![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
-[![Kaggle][kaggle-logo]][kaggle-url] <!--Kaggle-->
 <!-- ### END OF CONTENT ### -->
 
 
@@ -70,6 +69,8 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 [markdown-logo]:https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white
 [shell-logo]:https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white
 [java-logo]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[ts-logo]:https://img.shields.io/badge/TypeScript-CE0A88?style=for-the-badge&logo=typescript&logoColor=white
+
 
 <!-- Version Control -->
 [git-logo]:https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
