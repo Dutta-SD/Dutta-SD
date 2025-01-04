@@ -26,7 +26,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.goodreads.com/review/show/7050705041?utm_medium=api&utm_source=rss) by Erik Larson (⭐️4.02)
+- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.goodreads.com/review/show/7050705041?utm_medium=api&utm_source=rss) by Erik Larson (⭐️4.03)
 - [Children of Time (Children of Time, #1)](https://www.goodreads.com/review/show/6708099525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
