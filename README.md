@@ -26,6 +26,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The End of Everything (Astrophysically Speaking)](https://www.goodreads.com/review/show/7308177139?utm_medium=api&utm_source=rss) by Katie  Mack (⭐️4.24)
 - [Sharp Objects](https://www.goodreads.com/review/show/6499692051?utm_medium=api&utm_source=rss) by Gillian Flynn (⭐️4.06)
 - [The Forgotten Bookshop in Paris](https://www.goodreads.com/review/show/7229190724?utm_medium=api&utm_source=rss) by Daisy Wood (⭐️4.1)
 - [Heart-Shaped Box](https://www.goodreads.com/review/show/5766606251?utm_medium=api&utm_source=rss) by Joe Hill (⭐️3.85)
