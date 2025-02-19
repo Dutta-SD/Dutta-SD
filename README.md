@@ -3,9 +3,7 @@ I like tech, AI & books.
 
 ## About Me
 
-- **Current Position**: SDE 1 at Amazon 👨🏽‍💻
 - **Previous Experience**:
-  - Joined Amazon India as a Software Developer
   - Completed IIT Kharagpur Research Project on Computer Vision and Medical Image Processing
   - Completed a software development internship at Amazon India. 🚀
   - Interned at NLP Lab, Jadavpur University, working on Sentiment Analysis. 💬
