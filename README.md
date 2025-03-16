@@ -24,6 +24,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [All the Light We Cannot See](https://www.goodreads.com/review/show/7405457352?utm_medium=api&utm_source=rss) by Anthony Doerr (⭐️4.31)
 - [The Forgotten Bookshop in Paris](https://www.goodreads.com/review/show/7229190724?utm_medium=api&utm_source=rss) by Daisy Wood (⭐️4.1)
 - [Heart-Shaped Box](https://www.goodreads.com/review/show/5766606251?utm_medium=api&utm_source=rss) by Joe Hill (⭐️3.85)
 - [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/7210822348?utm_medium=api&utm_source=rss) by Amir Levine (⭐️4.11)
