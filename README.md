@@ -28,7 +28,7 @@ I like tech, AI & books.
 - [The Forgotten Bookshop in Paris](https://www.goodreads.com/review/show/7229190724?utm_medium=api&utm_source=rss) by Daisy Wood (⭐️4.1)
 - [Heart-Shaped Box](https://www.goodreads.com/review/show/5766606251?utm_medium=api&utm_source=rss) by Joe Hill (⭐️3.85)
 - [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/7210822348?utm_medium=api&utm_source=rss) by Amir Levine (⭐️4.11)
-- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.goodreads.com/review/show/7050705041?utm_medium=api&utm_source=rss) by Erik Larson (⭐️4.02)
+- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.goodreads.com/review/show/7050705041?utm_medium=api&utm_source=rss) by Erik Larson (⭐️4.03)
 - [Children of Time (Children of Time, #1)](https://www.goodreads.com/review/show/6708099525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
