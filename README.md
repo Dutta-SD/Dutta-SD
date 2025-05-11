@@ -24,6 +24,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.goodreads.com/review/show/7557864526?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
 - [Cold Moon Over Babylon](https://www.goodreads.com/review/show/7444656101?utm_medium=api&utm_source=rss) by Michael McDowell (⭐️3.96)
 - [All the Light We Cannot See](https://www.goodreads.com/review/show/7405457352?utm_medium=api&utm_source=rss) by Anthony Doerr (⭐️4.31)
 - [The Forgotten Bookshop in Paris](https://www.goodreads.com/review/show/7229190724?utm_medium=api&utm_source=rss) by Daisy Wood (⭐️4.1)
