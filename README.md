@@ -25,12 +25,6 @@ I like tech, AI & books.
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.goodreads.com/review/show/7557864526?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
-- [Cold Moon Over Babylon](https://www.goodreads.com/review/show/7444656101?utm_medium=api&utm_source=rss) by Michael McDowell (⭐️3.96)
-- [All the Light We Cannot See](https://www.goodreads.com/review/show/7405457352?utm_medium=api&utm_source=rss) by Anthony Doerr (⭐️4.31)
-- [The Forgotten Bookshop in Paris](https://www.goodreads.com/review/show/7229190724?utm_medium=api&utm_source=rss) by Daisy Wood (⭐️4.1)
-- [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/7210822348?utm_medium=api&utm_source=rss) by Amir Levine (⭐️4.11)
-- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.goodreads.com/review/show/7050705041?utm_medium=api&utm_source=rss) by Erik Larson (⭐️4.02)
-- [Children of Time (Children of Time, #1)](https://www.goodreads.com/review/show/6708099525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
