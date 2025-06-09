@@ -24,6 +24,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/7638321643?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.66)
 - [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.goodreads.com/review/show/7557864526?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 
