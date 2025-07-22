@@ -24,6 +24,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Fahrenheit 451](https://www.goodreads.com/review/show/7760754681?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐️3.97)
 - [Lord of the Flies](https://www.goodreads.com/review/show/7719709633?utm_medium=api&utm_source=rss) by William Golding (⭐️3.7)
 - [Aghora: At the Left Hand of God](https://www.goodreads.com/review/show/7675623997?utm_medium=api&utm_source=rss) by Robert E. Svoboda (⭐️4.07)
 - [The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory](https://www.goodreads.com/review/show/7557864526?utm_medium=api&utm_source=rss) by Brian Greene (⭐️4.11)
