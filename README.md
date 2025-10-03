@@ -24,6 +24,7 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/7834320008?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.3)
 - [The Song of Achilles](https://www.goodreads.com/review/show/7719711979?utm_medium=api&utm_source=rss) by Madeline Miller (⭐️4.31)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/7210871680?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Lord of the Flies](https://www.goodreads.com/review/show/7719709633?utm_medium=api&utm_source=rss) by William Golding (⭐️3.7)
