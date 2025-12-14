@@ -24,7 +24,6 @@ I like tech, AI & books.
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8127988922?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.11)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/7210871680?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Lord of the Flies](https://www.goodreads.com/review/show/7719709633?utm_medium=api&utm_source=rss) by William Golding (⭐️3.7)
 - [Aghora: At the Left Hand of God](https://www.goodreads.com/review/show/7675623997?utm_medium=api&utm_source=rss) by Robert E. Svoboda (⭐️4.07)
