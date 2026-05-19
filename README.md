@@ -1,26 +1,23 @@
 # Sandip Dutta
-I like tech, AI & books.
 
-## About Me
-
-- **Previous Experience**:
-  - Completed IIT Kharagpur Research Project on Computer Vision and Medical Image Processing
-  - Completed a software development internship at Amazon India. 🚀
-  - Interned at NLP Lab, Jadavpur University, working on Sentiment Analysis. 💬
-  - Interned at AI Lab, Jadavpur University, focusing on Machine Learning. 🤖
-  - Interned at CVPRU, ISI Kolkata, specializing in Medical Image Processing. 🏥 🖥️
-- **Education**: Recent Electronics graduate from Jadavpur University (B.E. 2019-2023) 🎓
-- **Programming Languages**: Proficient in Java and Python. Learning more about JavaScript.
-- **Frameworks**: Experienced in developing applications using Spring Boot 🌼 and other Spring environment frameworks. 🌸
-- **Interests**: Enthusiastic about Machine Learning 🤖 and Artificial Intelligence 🧠.
-- **Hobbies**: Enjoys reading books, particularly in the genres of technology 📚, science fiction 🚀, and horror 👻.
+Software engineer working on backend systems and applied AI. Java, Python, C++. Interested in LLMs, distributed systems, and books 📚
 
 ## Technologies
 
-![python][python-logo] ![np][np-logo] ![pandas][pandas-logo] ![sklearn][sklearn-logo] ![tensorflow][tensorflow-logo] ![keras][keras-logo] ![pytorch][pytorch-logo] ![p-lightning][pl-logo]
-![flask][flask-logo] ![fastapi][fastapi-logo] ![spring-boot][spring-boot-logo] ![c][c-logo] ![cpp][cpp-logo] ![r][r-logo] ![java][java-logo]
-![mkdown][markdown-logo] ![shell][shell-logo] ![mysql][mysql-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo]
-![git][git-logo] ![github][github-logo] ![aws][aws-logo] ![linux-ubuntu][linux-logo] ![docker][docker-logo] ![ts][ts-logo]
+### Languages
+![python][python-logo] ![java][java-logo] ![cpp][cpp-logo] ![c][c-logo] ![ts][ts-logo] ![shell][shell-logo]
+
+### AI / ML
+![pytorch][pytorch-logo] ![p-lightning][pl-logo] ![sklearn][sklearn-logo] ![np][np-logo] ![pandas][pandas-logo] ![huggingface][huggingface-logo] ![langchain][langchain-logo] ![openai][openai-logo]
+
+### Backend & Frameworks
+![spring-boot][spring-boot-logo] ![fastapi][fastapi-logo]
+
+### Databases
+![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo] ![redis][redis-logo] ![mysql][mysql-logo]
+
+### Cloud & Infrastructure
+![aws][aws-logo] ![docker][docker-logo] ![kafka][kafka-logo] ![linux-ubuntu][linux-logo] ![git][git-logo] ![github][github-logo]
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
@@ -33,7 +30,7 @@ I like tech, AI & books.
 
 ## Contact Me
 <!-- SOCIAL -->
-[![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
+[![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]
 <!-- ### END OF CONTENT ### -->
 
 
@@ -41,50 +38,39 @@ I like tech, AI & books.
 [linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/dutta-sd/
 
-[facebook-logo]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[facebook-url]:https://www.facebook.com/profile.php?id=100039020774484
-
-[hackerrank-logo]:https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
-[hackerrank-url]:https://www.hackerrank.com/Sandip11100
-
-[kaggle-logo]:https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-[kaggle-url]:https://www.kaggle.com/duttasd28
-
-<!-- Python and Machine Learning Stack -->
-[python-logo]:https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
-[flask-logo]:https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[spring-boot-logo]:https://img.shields.io/badge/Spring-11A821?style=for-the-badge&logo=spring&logoColor=white
+<!-- Python and ML Stack -->
+[python-logo]:https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [np-logo]:https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-[pandas-logo]:https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white
-[keras-logo]:https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white
-[tensorflow-logo]:https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white
-[pytorch-logo]:https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white
-[pl-logo]:https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=PyTorch%20Lightning&ogoColor=white
-[django-logo]:https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-[sklearn-logo]:https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-[fastapi-logo]:https://img.shields.io/badge/Fastapi-0FD4C4?style=for-the-badge&logo=fastapi&logoColor=white
+[pandas-logo]:https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[sklearn-logo]:https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[pytorch-logo]:https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white
+[pl-logo]:https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=PyTorch%20Lightning&logoColor=white
+[huggingface-logo]:https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+[langchain-logo]:https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
+[openai-logo]:https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
 
-<!--Other Programming Languages-->
-[c-logo]:https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white
-[cpp-logo]:https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white
-[r-logo]:https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white
-[markdown-logo]:https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white
-[shell-logo]:https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white
-[java-logo]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[ts-logo]:https://img.shields.io/badge/TypeScript-CE0A88?style=for-the-badge&logo=typescript&logoColor=white
+<!-- Backend -->
+[spring-boot-logo]:https://img.shields.io/badge/Spring%20Boot-11A821?style=for-the-badge&logo=springboot&logoColor=white
+[fastapi-logo]:https://img.shields.io/badge/FastAPI-0FD4C4?style=for-the-badge&logo=fastapi&logoColor=white
 
-
-<!-- Version Control -->
-[git-logo]:https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
-[github-logo]:https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white
+<!-- Languages -->
+[java-logo]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[cpp-logo]:https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[c-logo]:https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[ts-logo]:https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[shell-logo]:https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 
 <!-- Databases -->
 [mysql-logo]:https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [postgre-logo]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [dynamodb-logo]:https://img.shields.io/badge/DynamoDB-2B6CAF?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white
-[mongodb-logo]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-logo]:https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white
+[redis-logo]:https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
 
-<!--  CLOUD -->
-[aws-logo]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[linux-logo]:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+<!-- Cloud & Infra -->
+[aws-logo]:https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
 [docker-logo]:https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white
+[kafka-logo]:https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white
+[linux-logo]:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[git-logo]:https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
+[github-logo]:https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white
