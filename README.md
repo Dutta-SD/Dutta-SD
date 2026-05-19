@@ -4,20 +4,7 @@ Software engineer working on backend systems and applied AI. Java, Python, C++. 
 
 ## Technologies
 
-### Languages
-![python][python-logo] ![java][java-logo] ![cpp][cpp-logo] ![c][c-logo] ![ts][ts-logo] ![shell][shell-logo]
-
-### AI / ML
-![pytorch][pytorch-logo] ![p-lightning][pl-logo] ![sklearn][sklearn-logo] ![np][np-logo] ![pandas][pandas-logo] ![huggingface][huggingface-logo] ![langchain][langchain-logo] ![openai][openai-logo]
-
-### Backend & Frameworks
-![spring-boot][spring-boot-logo] ![fastapi][fastapi-logo]
-
-### Databases
-![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo] ![redis][redis-logo] ![mysql][mysql-logo]
-
-### Cloud & Infrastructure
-![aws][aws-logo] ![docker][docker-logo] ![kafka][kafka-logo] ![linux-ubuntu][linux-logo] ![git][git-logo] ![github][github-logo]
+![python][python-logo] ![java][java-logo] ![cpp][cpp-logo] ![c][c-logo] ![ts][ts-logo] ![shell][shell-logo] ![pytorch][pytorch-logo] ![p-lightning][pl-logo] ![sklearn][sklearn-logo] ![np][np-logo] ![pandas][pandas-logo] ![huggingface][huggingface-logo] ![langchain][langchain-logo] ![openai][openai-logo] ![spring-boot][spring-boot-logo] ![fastapi][fastapi-logo] ![psql][postgre-logo] ![ddb][dynamodb-logo] ![mongodb][mongodb-logo] ![redis][redis-logo] ![mysql][mysql-logo] ![elasticsearch][elasticsearch-logo] ![aws][aws-logo] ![docker][docker-logo] ![kafka][kafka-logo] ![linux-ubuntu][linux-logo] ![git][git-logo] ![github][github-logo] ![vim][vim-logo] ![vscode][vscode-logo]
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
@@ -74,3 +61,6 @@ Software engineer working on backend systems and applied AI. Java, Python, C++. 
 [linux-logo]:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [git-logo]:https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
 [github-logo]:https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white
+[elasticsearch-logo]:https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white
+[vim-logo]:https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white
+[vscode-logo]:https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
