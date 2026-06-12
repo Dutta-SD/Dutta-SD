@@ -8,8 +8,9 @@ Software engineer working on backend systems and applied AI. Java, Python, C++. 
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Lean Startup](https://www.goodreads.com/review/show/8650903603?utm_medium=api&utm_source=rss) by Eric Ries (⭐️4.1)
+- [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/review/show/8650902919?utm_medium=api&utm_source=rss) by Peter Thiel (⭐️4.14)
 - [The Hacienda](https://www.goodreads.com/review/show/5782229945?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️3.83)
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/7210871680?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ## Contact Me
