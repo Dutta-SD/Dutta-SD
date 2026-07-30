@@ -8,8 +8,8 @@ Software engineer working on backend systems and applied AI. Java, Python, C++. 
 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Scout Mindset: Why Some People See Things Clearly and Others Don't](https://www.goodreads.com/review/show/8814447537?utm_medium=api&utm_source=rss) by Julia Galef (⭐️4.07)
 - [The Lean Startup](https://www.goodreads.com/review/show/8650903603?utm_medium=api&utm_source=rss) by Eric Ries (⭐️4.1)
-- [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/review/show/8650902919?utm_medium=api&utm_source=rss) by Peter Thiel (⭐️4.14)
 - [The Hacienda](https://www.goodreads.com/review/show/5782229945?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
