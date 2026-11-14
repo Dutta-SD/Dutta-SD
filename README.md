@@ -1,6 +1,6 @@
 # Sandip Dutta
 
-Software engineer working on backend systems and applied AI. Java, Python, C++. Interested in LLMs, distributed systems, and books 📚
+Software engineer working on backend systems and applied AI. Golang, Java, Python. Interested in LLMs, distributed systems, and books 📚
 
 ## Technologies
 
@@ -9,7 +9,6 @@ Software engineer working on backend systems and applied AI. Java, Python, C++. 
 ## Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [The Rise and Fall of the Dinosaurs: A New History of a Lost World](https://www.goodreads.com/review/show/8852705359?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐️4.24)
-- [The Scout Mindset: Why Some People See Things Clearly and Others Don't](https://www.goodreads.com/review/show/8814447537?utm_medium=api&utm_source=rss) by Julia Galef (⭐️4.07)
 - [The Lean Startup](https://www.goodreads.com/review/show/8650903603?utm_medium=api&utm_source=rss) by Eric Ries (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
